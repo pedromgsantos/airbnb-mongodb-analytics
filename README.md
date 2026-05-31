@@ -1,6 +1,6 @@
 # Airbnb MongoDB Analytics
 
-Project for the Big Data and Data Modelling course, Masters in Data Science and Advanced Analytics, NOVA IMS.  
+Project for the Big Data and Data Modelling course, Master's in Data Science and Advanced Analytics, NOVA IMS.  
 This repository reflects a cleaned version of the project, with improved organisation and documentation for clarity and reproducibility.
 
 ---
